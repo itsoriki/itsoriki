@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @itsoriki
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web
+👋 Hi, I’m Ori
+
+🌱 I’m currently learning web development from front to back
 
 <!---
 itsoriki/itsoriki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
